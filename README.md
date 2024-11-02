@@ -1,5 +1,5 @@
 # 설치
 
-npx create-react-app chatting <br>
-npm install react-router-dom <br>
-npm install react-responsive
+- React 프로젝트 생성: `npx create-react-app chatting`
+- 라우팅을 위한 'React-router-dom' 설치: `npm install react-router-dom`
+- 반응형을 위한 'React-responsive' 설치: `npm install react-responsive`
